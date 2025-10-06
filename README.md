@@ -1,6 +1,6 @@
 <!-- 🔥 Banner (replace with your own image URL if you like) -->
 <p align="center">
-  <img src="https://i.ibb.co/jwKZnx6/github-banner-dark.gif" alt="Santu Banner" width="100%" />
+  <img src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" alt="Santu Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey, I’m <span style="color:#00FFFF">Santu</span>!</h1>
